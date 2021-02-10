@@ -2,19 +2,19 @@ body {
   max-width: 1024px;
   margin: 0 auto;
   background: #262626;
-  position: relative;
   color: aliceblue;
+  position: relative
 }
 
-img {
-  width: 37%;
+.avatar {
   position: absolute;
+  width: 33%;
   left: 55%;
   top: 5%;
   border-radius: 3%;
 }
 
-.main {
+main {
   padding: 15px;
   margin: 0 auto;
   font-size: 1.5rem;
@@ -26,10 +26,37 @@ a {
 }
 
 .note-text {
-   opacity: 30%;
-   margin-top: 20px;
+  opacity: 30%;
+  margin-top: 20px;
+  background: none;
+  color: aliceblue;
 }
 
-.li-style {
-    line-height: 30px;;  
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
 }
+
+.link_github {
+  width: 4%;
+}
+
+.link_rss {
+  width: 10%;
+}
+
+.logo_github {
+  width: 100%;
+}
+
+.copyright {
+  font-size: 0.75em;
+  color: black;
+  margin: 0;
+}
+
+
+
+
+
