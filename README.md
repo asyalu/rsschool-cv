@@ -5,4 +5,4 @@ https://asyalu.github.io/rsschool-cv/
 **self-assessment:**  
 all requirements are met in full, the task is estimated at 100 points  
 **Screenshot CV:**  
-![](https://sun9-37.userapi.com/impf/LtFuSgRA0HfKYZdgAs1hNXESHWBZ21bzAz-XsQ/Pi7FiuBSOHY.jpg?size=1271x917&quality=96&proxy=1&sign=f4c283c2cacde0b6e7779f439b2166a8&type=album)
+![](https://sun9-7.userapi.com/impf/A_jmUJN5ChnbXv1iO9ig3CZkrfwSToazHL_xzQ/lSc__I6tO8o.jpg?size=743x875&quality=96&proxy=1&sign=9a43207549f0ce66bad91f2938a9de73&type=album)
